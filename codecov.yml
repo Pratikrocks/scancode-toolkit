@@ -3,6 +3,7 @@ coverage:
     round: down
     precision: 2
 
+
 ignore:
     - "samples/**/*"
     - "thirdparty/**/*"
